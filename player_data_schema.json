@@ -1,0 +1,15 @@
+{
+  "feature_names": [
+    "Level",
+    "Matches",
+    "Collisions"
+  ],
+  "class_names": [
+    "Low",
+    "Medium",
+    "High",
+    "Expert"
+  ],
+  "num_features": 3,
+  "num_classes": 4
+}
